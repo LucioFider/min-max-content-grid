@@ -1,0 +1,22 @@
+{
+  "name": "min-max-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucioFider/min-max-content-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucioFider/min-max-content-grid/issues"
+  },
+  "homepage": "https://github.com/LucioFider/min-max-content-grid#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
